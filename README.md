@@ -17,7 +17,7 @@ cp -f  ./.vimrc ~
 		1.item1a
 		1.item2b
 
-![GitHub Logo](/home/sunyong/pencils.jpg)
+![GitHub Logo](http://cfs7.tistory.com/upload_control/download.blog?fhandle=YmxvZzgyMzM1QGZzNy50aXN0b3J5LmNvbTovYXR0YWNoLzAvMDYwMDAwMDAwMDAwLmpwZw%3D%3D)
 Format: ![Alt Text](url)
 
 # vimset
