@@ -6,3 +6,5 @@ git clone http://github.com/jeongsunyong/vimset
 cd vimset
 cp ./.vimrc ~
 # jeongsunyong.github.io
+# jeongsunyong.github.io
+# vimset
